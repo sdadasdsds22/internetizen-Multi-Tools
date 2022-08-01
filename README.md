@@ -1,1 +1,4 @@
-# internetizen-Multi-Tools
+{
+"SendMessage":1,"
+MyMessage":"HELLO"
+}
