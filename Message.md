@@ -1,4 +1,4 @@
 {
 "SendMessage":1,"
-MyMessage":"Donation: +639750835137"
+MyMessage":"Mahal kita Jubiar"
 }
